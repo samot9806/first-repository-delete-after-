@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+ENV2/
+env2/
+
+# Environments variables and secrets
+.env
+.env.*
+*.secret
+secrets.json
+
+# Testing and Coverage
+.tox/
+.nosexml/
+coverage.xml
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebooks local states
+.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
